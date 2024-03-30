@@ -63,7 +63,7 @@
 </p>
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://discord.com/users/544280769359511555" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/544280769359511555" height="30" width="40" />
+  <a href="https://discord.com/users/644925844459880490" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/644925844459880490" height="30" width="40" />
   </a>
 </p>
