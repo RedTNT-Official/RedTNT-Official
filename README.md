@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=RedTNT-Official&label=Profile%20views&color=0e75b6&style=flat" alt="RedTNT" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lox1co&show_icons=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=0d1117&hide_border=true" alt="lox1co" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedTNT-Official&show_icons=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=0d1117&hide_border=true" alt="RedTNT" />
 </p>
 <h3 align="center">Languages</h3>
 <p align="center">
